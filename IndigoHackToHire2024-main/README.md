@@ -62,6 +62,6 @@ Admin Console: Provides real-time updates quickly to users about flight status.
 Smooth and Interactive UI: Ensures a user-friendly experience.
 Contacts
 
-Email: sagargaud332@gmail.com
+Email: jayantgupta1382@gmail.com
 # About me:
-<a href="https://www.linkedin.com/in/sagargaud332/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/jayant-gupta-94634a194?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
